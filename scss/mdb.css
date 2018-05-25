@@ -4963,4 +4963,11 @@ table.table-sm td {
 .full-height header .view {
   height: 100%; }
 
-/*# sourceMappingURL=mdb.min.css.map */
+body {
+  background: #000000;
+  font-family: "arial"; }
+
+.img {
+  padding-left: 10px; }
+
+/*# sourceMappingURL=mdb.css.map */
