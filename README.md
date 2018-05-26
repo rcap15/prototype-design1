@@ -30,9 +30,9 @@ The task is to create and develop the front-end part of the company's job listin
 
 ## Instructions:
 
-* Go to the [GitHub page] (https://github.com/rcap15/prototype-design1) or project repository
+* Go to the [GitHub page] (https://github.com/rcap15/prototype-design1)
 * Click "Clone or download" dropdown button to see the options
-* You can either use Git or checkout with SVN using the web url, Open in Desktop (GithHub Deskop needs to be installed) or Download ZIP
+* You can either use Git or checkout with SVN using the web url, Open in Desktop (GithHub Desktop needs to be installed) or Download ZIP
 * The quickest way is to download the zip file as we currently don't need a site and database configuration
 * Extract the zip file to your desktop and open index.html to view the page
 * Open the "reference" folder which contains the job listing image for your reference
