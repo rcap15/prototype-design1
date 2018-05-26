@@ -24,17 +24,20 @@ body,
   COLOR: black;
   TEXT-DECORATION: none;
   font-weight: normal; }
+
 .link-style A:visited {
   COLOR: black;
   TEXT-DECORATION: none;
   font-weight: normal;
   border-bottom: 2px solid #000000;
   padding-bottom: 15px; }
+
 .link-style A:active {
   COLOR: black;
   TEXT-DECORATION: none;
   border-bottom: 2px solid #000000;
   padding-bottom: 15px; }
+
 .link-style A:hover {
   COLOR: black;
   TEXT-DECORATION: none;
@@ -117,5 +120,108 @@ body,
   color: #fff;
   padding-top: 100px;
   padding-bottom: 70px; }
+
+/* Icons */
+.icon-logo {
+  width: 150px;
+  height: 100px;
+  padding-left: 10px;
+  vertical-align: bottom !important;
+  background: url("img/icons/sprite-sheet.svg");
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.icon-arrow-head-down {
+  width: 35px;
+  height: 25px;
+  padding-left: 10px;
+  vertical-align: bottom !important;
+  background: url("img/icons/sprite-sheet.svg");
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.icon-filter {
+  width: 35px;
+  height: 25px;
+  padding-right: 10px;
+  vertical-align: bottom !important;
+  background: url("img/icons/sprite-sheet.svg");
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.icon-bell {
+  width: 30px;
+  height: 20px;
+  padding-right: 10px;
+  vertical-align: middle !important;
+  background: url("img/icons/sprite-sheet.svg");
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.icon-wreath {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin-top: -320px;
+  background: url("img/icons/sprite-sheet.svg");
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.icon-facebook {
+  display: block;
+  width: 20px;
+  height: 22px;
+  padding-right: 12px;
+  background: url("img/icons/sprite-sheet.svg");
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.icon-twitter {
+  display: block;
+  width: 50px;
+  height: 30px;
+  padding-right: 30px;
+  background: url("img/icons/sprite-sheet.svg");
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.icon-instagram {
+  display: block;
+  width: 40px;
+  height: 30px;
+  padding-right: 25px;
+  background: url("img/icons/sprite-sheet.svg");
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.icon-google-plus {
+  display: block;
+  width: 45px;
+  height: 30px;
+  padding-right: 25px;
+  background: url("img/icons/sprite-sheet.svg");
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.icon-linkedin {
+  display: block;
+  width: 25px;
+  height: 25px;
+  padding-right: 5px;
+  background: url("img/icons/sprite-sheet.svg");
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden; }
+
+/*# sourceMappingURL=style.min.css.map */
 
 /*# sourceMappingURL=style.min.css.map */
